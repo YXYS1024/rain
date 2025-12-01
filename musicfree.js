@@ -3,7 +3,7 @@
     "plugins": [
        
         {
-            "name": "小易音乐",
+            "name": "小芸音乐",
             "url": "http://music.haitangw.net/cqapi/wy.js",
             "version": "0.1.0"
         },
