@@ -1,5 +1,4 @@
 # 规则名称: Direct
-# 规则统计: 37
 
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -39,5 +38,6 @@ DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,firepx.com
+DOMAIN-SUFFIX,list.bbc.xx.kg
 
 DEST-PORT,22
