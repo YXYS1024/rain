@@ -1,5 +1,5 @@
 payload:
-  - 'pai.yt'
+  - '+.pai.yt'
   - 'clash.razord.top'
   - 'yacd.haishan.me'
   - '+.firepx.com'
