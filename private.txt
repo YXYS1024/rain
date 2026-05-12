@@ -1,4 +1,5 @@
 payload:
+  - '+.cd.sd'
   - '+.pai.yt'
   - 'clash.razord.top'
   - 'yacd.haishan.me'
